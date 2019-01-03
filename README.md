@@ -1,7 +1,7 @@
 # Nyoba_Esp32-mqtt
 Sedang belajar Google IoT Core JWT
-\n
-Pesan yang muncul di Serial Monitor:'\n'
+
+Pesan yang muncul di Serial Monitor:
 Connecting to WiFi
 Waiting on time sync...
 Connecting to mqtt.googleapis.com
